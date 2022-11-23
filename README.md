@@ -6,4 +6,4 @@ You are given two non-empty linked lists representing two non-negative integers.
 
 ## Demo
 
-### https://sauravhathi.github.io/add-two-numbers-using-linked-list/
+### https://sauravhathi.github.io/add-two-numbers-on-a-represented-linked-list
